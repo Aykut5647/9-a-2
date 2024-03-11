@@ -1,0 +1,7 @@
+C:\Aykut 9a\2. zad\bin\Debug\_2.zad.exe.config
+C:\Aykut 9a\2. zad\bin\Debug\_2.zad.exe
+C:\Aykut 9a\2. zad\bin\Debug\_2.zad.pdb
+C:\Aykut 9a\2. zad\obj\Debug\2. zad.csproj.AssemblyReference.cache
+C:\Aykut 9a\2. zad\obj\Debug\2. zad.csproj.CoreCompileInputs.cache
+C:\Aykut 9a\2. zad\obj\Debug\_2.zad.exe
+C:\Aykut 9a\2. zad\obj\Debug\_2.zad.pdb

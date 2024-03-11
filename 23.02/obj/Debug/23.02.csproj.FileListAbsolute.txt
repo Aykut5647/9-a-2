@@ -1,0 +1,7 @@
+C:\Aykut 9a\23.02\bin\Debug\23.02.exe.config
+C:\Aykut 9a\23.02\bin\Debug\23.02.exe
+C:\Aykut 9a\23.02\bin\Debug\23.02.pdb
+C:\Aykut 9a\23.02\obj\Debug\23.02.csproj.AssemblyReference.cache
+C:\Aykut 9a\23.02\obj\Debug\23.02.csproj.CoreCompileInputs.cache
+C:\Aykut 9a\23.02\obj\Debug\23.02.exe
+C:\Aykut 9a\23.02\obj\Debug\23.02.pdb
